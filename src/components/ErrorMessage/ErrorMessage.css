@@ -1,7 +1,7 @@
 .error-message {
-  display: flex;
+  display: grid;
+  justify-items: center;
   align-items: center;
-  justify-content: center;
   gap: 12px;
   background: #e74c3c;
   color: #ffffff;
