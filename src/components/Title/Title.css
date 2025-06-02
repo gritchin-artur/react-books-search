@@ -1,0 +1,10 @@
+.title {
+  font-family: "Orbitron", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+  text-shadow: 0 0 20px rgba(107, 72, 255, 0.7);
+}

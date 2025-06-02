@@ -1,0 +1,13 @@
+.books {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  padding: 0;
+  list-style: none;
+}
+
+@media (max-width: 600px) {
+  .books {
+    grid-template-columns: 1fr;
+  }
+}
